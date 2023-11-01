@@ -1,0 +1,24 @@
+{
+  "name": "generate-pages",
+  "version": "1.0.0",
+  "description": "![coverage](https://img.shields.io/badge/coverage%20-98%25-green) ![npm](https://img.shields.io/badge/npm%20-v2.6.11-blue) ![license](https://img.shields.io/badge/license-MIT-red) ![auto](https://img.shields.io/badge/auto-100%25-orange)",
+  "main": "src/index.js",
+  "bin": {
+    "generate-pages-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4",
+    "shelljs": "^0.8.4",
+    "single-line-log": "^1.1.2",
+    "yargs": "^15.3.1"
+  },
+  "keywords": [],
+  "author": "lyu",
+  "license": "MIT"
+}

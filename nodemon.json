@@ -1,0 +1,1 @@
+{"restartable":"rs","ignore":[".git","node_modules/*"],"verbose":false,"execMap":{"js":"node --harmony"},"watch":["/Users/lv/Desktop/工作/app/gxs-app/pages-config/*"],"env":{"NODE_ENV":"production"},"ext":"js"}
